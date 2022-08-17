@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gupta-piyush19/zustand-basics/static/css/main.72ce9cc3.css",
-    "main.js": "/gupta-piyush19/zustand-basics/static/js/main.2298f250.js",
-    "index.html": "/gupta-piyush19/zustand-basics/index.html",
-    "main.72ce9cc3.css.map": "/gupta-piyush19/zustand-basics/static/css/main.72ce9cc3.css.map",
-    "main.2298f250.js.map": "/gupta-piyush19/zustand-basics/static/js/main.2298f250.js.map"
+    "main.css": "/zustand-basics/static/css/main.72ce9cc3.css",
+    "main.js": "/zustand-basics/static/js/main.2298f250.js",
+    "index.html": "/zustand-basics/index.html",
+    "main.72ce9cc3.css.map": "/zustand-basics/static/css/main.72ce9cc3.css.map",
+    "main.2298f250.js.map": "/zustand-basics/static/js/main.2298f250.js.map"
   },
   "entrypoints": [
     "static/css/main.72ce9cc3.css",
