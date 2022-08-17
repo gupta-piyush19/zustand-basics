@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/zustand-basics/static/css/main.72ce9cc3.css",
+    "main.css": "/zustand-basics/static/css/main.22425711.css",
     "main.js": "/zustand-basics/static/js/main.2298f250.js",
     "index.html": "/zustand-basics/index.html",
-    "main.72ce9cc3.css.map": "/zustand-basics/static/css/main.72ce9cc3.css.map",
+    "main.22425711.css.map": "/zustand-basics/static/css/main.22425711.css.map",
     "main.2298f250.js.map": "/zustand-basics/static/js/main.2298f250.js.map"
   },
   "entrypoints": [
-    "static/css/main.72ce9cc3.css",
+    "static/css/main.22425711.css",
     "static/js/main.2298f250.js"
   ]
 }
